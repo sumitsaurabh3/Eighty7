@@ -1,16 +1,25 @@
 # assignment2
 
-A new Flutter project.
+This is a simple Flutter application that demonstrates how to integrate with a public REST API. In this example, it fetches and displays top headlines from the NewsAPI.
+
+## Prerequisites
+
+Before running this application, make sure you have the following installed on your machine:
+
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Dart](https://dart.dev/get-dart)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+   ```bash
+   git clone https://github.com/sumitsaurabh3/Eighty7.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Save the file.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Connect your device or start an emulator.
+
+Run the application:
+flutter run
+This command will build and run the Flutter app on your connected device or emulator.

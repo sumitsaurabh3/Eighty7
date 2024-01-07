@@ -16,10 +16,11 @@ Before running this application, make sure you have the following installed on y
    ```bash
    git clone https://github.com/sumitsaurabh3/Eighty7.git
 
-Save the file.
+2.Save the file.
 
-Connect your device or start an emulator.
+3.Connect your device or start an emulator.
 
-Run the application:
+4.Run the application:
 flutter run
+
 This command will build and run the Flutter app on your connected device or emulator.
